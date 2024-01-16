@@ -1,0 +1,5 @@
+numpy==1.23.5
+matplotlib==3.8.0
+streamlit==1.27.1
+tensorflow==2.12.1
+tqdm==4.66.1
